@@ -1,17 +1,17 @@
 {
-"name": "com.domybest.mybox",
-"version": "1.8.0",
-"displayName": "MyBox",
-"description": "MyBox is a set of attributes, tools and extensions for Unity",
+"name": "com.schmiggolas.unitytools",
+"version": "1.0.0",
+"displayName": "UnityTools",
+"description": "A collection of tools for unity",
 
 "unity": "2018.3",
 "dependencies": {
     "com.unity.ugui": "1.0.0"
 },
-"documentationUrl": "https://github.com/Deadcows/MyBox/wiki",
+"documentationUrl": "https://github.com/Schmiggolas/UnityTools",
 
 "keywords": ["attributes", "extensions", "editor tools"],
-"author": { "name" : "Andrew Rumak",
-   "email" : "andrew@deadcow.ru",
-   "url" : "http://andrew@deadcow.ru/" }
+"author": { "name" : "Nicolas Teichtweier",
+   "email" : "contact@schmiggolas.com",
+   "url" : "https://blog.schmiggolas.com" }
 }

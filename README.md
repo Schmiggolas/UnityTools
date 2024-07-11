@@ -1,13 +1,8 @@
 # MyBox
 
-[![openupm](https://img.shields.io/npm/v/com.domybest.mybox?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.domybest.mybox/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Deadcows/MyBox/blob/master/LICENSE.md)
-<a href="https://www.buymeacoffee.com/andrewrumak" target="_blank"><img src="https://user-images.githubusercontent.com/969858/114297171-ca615080-9ab7-11eb-8010-0ae8762ff1f1.png" /></a>
-<br>
 
-
-MyBox is a set of tools, features and extensions for Unity.<br />
-It is MyBox. Now it's yours too :raised_hands:<br />
+This is a fork of the incredible [MyBox](https://github.com/Deadcows/MyBox) project.
 
 
 ## [Installation](https://github.com/Deadcows/MyBox/wiki/Installation)
@@ -71,8 +66,3 @@ Tons of images in docs below :point_down:
 **[UIImageBasedButton Component](https://github.com/Deadcows/MyBox/wiki/Types#uiimagebasedbutton-component)** — Used to create toggle button behaviour<br />
 **[UIRelativePosition Component](https://github.com/Deadcows/MyBox/wiki/Types#uirelativeposition-component)** — Position one RectTransform relatively to another, regardless of hierarchy<br />
 **[UISizeBy Component](https://github.com/Deadcows/MyBox/wiki/Types#uisizeby-component)** — Size one RectTransform relatively to another<br />
-
-
---------
-
-//TODO: Extensions, Unfinished tools
