@@ -1,4 +1,4 @@
-# MyBox
+# MyBox – set of tools, features and extensions for Unity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Deadcows/MyBox/blob/master/LICENSE.md)
 
